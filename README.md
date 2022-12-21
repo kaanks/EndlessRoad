@@ -1,7 +1,6 @@
-# 
-<img src="./endless_img/endless1.png" alt="Logo of the project"  width="120"  align="right">
 # EndlessRoad &middot; 
-
+<img src="./endless_img/endless1.png" alt="Logo of the project"  width="120"  align="right">
+#
 ![GitHub stars](https://img.shields.io/github/stars/kaanks/EndlessRoad?style=social) ![GitHub forks](https://img.shields.io/github/forks/kaanks/EndlessRoad?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/kaanks/EndlessRoad?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/kaanks/EndlessRoad?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/kaanks/EndlessRoad?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/kaanks/EndlessRoad?color=red&style=plastic) ![GitHub issues](https://img.shields.io/github/issues/kaanks/EndlessRoad)![GitHub top language](https://img.shields.io/github/languages/top/kaanks/EndlessRoad?style=plastic)
  
 
