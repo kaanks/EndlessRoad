@@ -1,7 +1,11 @@
 # 
 <img src="./endless_img/endless1.png" alt="Logo of the project"  width="120"  align="right">
+# EndlessRoad &middot; 
 
-# EndlessRoad &middot; [![Build Status](https://img.shields.io/travis/npm/npm/latest.svg?style=flat-square)](https://travis-ci.org/npm/npm) [![npm](https://img.shields.io/npm/v/npm.svg?style=flat-square)](https://www.npmjs.com/package/npm) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/your/your-project/blob/master/LICENSE)
+![GitHub stars](https://img.shields.io/github/stars/kaanks/EndlessRoad?style=social) ![GitHub forks](https://img.shields.io/github/forks/kaanks/EndlessRoad?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/kaanks/EndlessRoad?style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/kaanks/EndlessRoad?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/kaanks/EndlessRoad?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/kaanks/EndlessRoad?color=red&style=plastic) ![GitHub issues](https://img.shields.io/github/issues/kaanks/EndlessRoad)
+ 
+
+
 > Additional information or tag line
 
 A brief description of your project, what it is used for.
@@ -33,8 +37,8 @@ the project further:
 
 ```shell
 git clone https://github.com/kaanks/EndlessRoad.git
-cd kaanks/EndlessRoad/
-packagemanager install
+# cd kaanks/EndlessRoad/
+# packagemanager install
 ```
 
 And state what happens step-by-step. If there is any virtual environment, local server or database feeder needed, explain here.
