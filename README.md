@@ -33,7 +33,7 @@ the project further:
 
 ```shell
 git clone https://github.com/kaanks/EndlessRoad.git
-cd your-project/
+cd kaanks/EndlessRoad/
 packagemanager install
 ```
 
